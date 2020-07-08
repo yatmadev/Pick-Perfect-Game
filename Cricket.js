@@ -3,7 +3,7 @@ import { StyleSheet, Text, View, TouchableOpacity, Alert, AsyncStorage } from 'r
 import {CheckBox, Header, Icon, Left, Body, Right, Title} from "native-base";
 import HomeScreen from './pages/HomeScreen'
 
-Created by Yatmadev Kasturi
+//Created by Yatmadev Kasturi
 
 export default class Cricket extends React.Component {
   state={
